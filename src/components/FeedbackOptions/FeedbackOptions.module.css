@@ -1,0 +1,14 @@
+.btn{
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: rgb(180, 26, 90);
+    transition-duration: 0.3s;
+    height: 25px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.btn:hover{
+    background-color: rgb(187, 0, 255);
+    color: snow;
+}   
