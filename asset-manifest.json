@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reacktonx-2/static/css/main.7c0fee52.chunk.css",
-    "main.js": "/reacktonx-2/static/js/main.bda6de8b.chunk.js",
-    "main.js.map": "/reacktonx-2/static/js/main.bda6de8b.chunk.js.map",
+    "main.js": "/reacktonx-2/static/js/main.cf67c7d8.chunk.js",
+    "main.js.map": "/reacktonx-2/static/js/main.cf67c7d8.chunk.js.map",
     "runtime-main.js": "/reacktonx-2/static/js/runtime-main.ca9b71d5.js",
     "runtime-main.js.map": "/reacktonx-2/static/js/runtime-main.ca9b71d5.js.map",
     "static/css/2.117ce29f.chunk.css": "/reacktonx-2/static/css/2.117ce29f.chunk.css",
     "static/js/2.de5dbf7a.chunk.js": "/reacktonx-2/static/js/2.de5dbf7a.chunk.js",
     "static/js/2.de5dbf7a.chunk.js.map": "/reacktonx-2/static/js/2.de5dbf7a.chunk.js.map",
     "index.html": "/reacktonx-2/index.html",
-    "precache-manifest.a75395b1eb48bd656910c289e350de72.js": "/reacktonx-2/precache-manifest.a75395b1eb48bd656910c289e350de72.js",
+    "precache-manifest.b5287fce241414f04b6c3226535bf7f8.js": "/reacktonx-2/precache-manifest.b5287fce241414f04b6c3226535bf7f8.js",
     "service-worker.js": "/reacktonx-2/service-worker.js",
     "static/css/2.117ce29f.chunk.css.map": "/reacktonx-2/static/css/2.117ce29f.chunk.css.map",
     "static/css/main.7c0fee52.chunk.css.map": "/reacktonx-2/static/css/main.7c0fee52.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.117ce29f.chunk.css",
     "static/js/2.de5dbf7a.chunk.js",
     "static/css/main.7c0fee52.chunk.css",
-    "static/js/main.bda6de8b.chunk.js"
+    "static/js/main.cf67c7d8.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03a0b1acde24b01cb2073cd526c314f6",
+    "revision": "0c5996170abf004f55c37c3465f388bb",
     "url": "/reacktonx-2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reacktonx-2/static/css/2.117ce29f.chunk.css"
   },
   {
-    "revision": "8ccfa8a58a1e213f0c45",
+    "revision": "6f708e8b98203a547389",
     "url": "/reacktonx-2/static/css/main.7c0fee52.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reacktonx-2/static/js/2.de5dbf7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ccfa8a58a1e213f0c45",
-    "url": "/reacktonx-2/static/js/main.bda6de8b.chunk.js"
+    "revision": "6f708e8b98203a547389",
+    "url": "/reacktonx-2/static/js/main.cf67c7d8.chunk.js"
   },
   {
     "revision": "0fac96faf54d69dffb22",
